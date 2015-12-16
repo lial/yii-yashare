@@ -4,7 +4,7 @@
 <img src="yii-yashare.png" />
 
 ## Подключение
-Скопируйте файл YaShare.php в нужную вам директорию. Например это protected/extensions, тогда подключение будет выглядеть так:
+Скопируйте файл YaShare.php в нужную вам директорию. Например в эту protected/extensions, тогда подключение будет выглядеть так:
 
 ```
 $this->widget('application.extensions.YaShare', array(
